@@ -29,6 +29,8 @@ No projeto foi utilizado Axios como cliente HTTP para realizar as requisições 
 
 Também foi utilizada a biblioteca Styled Components que permitiu escrever os códigos CSS dentro do Javascript de forma mais prática, tendo em vista que o mesmo já utiliza um pré-processador CSS.
 
+O acesso ao site deve ser feito através da url http://localhost3000.
+
 ## 🛠️ Construído com:
 
 As seguintes ferramentas foram usadas na construção do projeto:
